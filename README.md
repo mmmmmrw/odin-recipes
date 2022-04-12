@@ -1,2 +1,2 @@
 # odin-recipes
-Just a barebone html file..
+Odin HTML test project
